@@ -1,4 +1,4 @@
-# goevent2
+# EventMaker
 
 A new Flutter project.
 
